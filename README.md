@@ -14,3 +14,7 @@ My favorite programming languages are:
 - [Rust](https://www.rust-lang.org/)
 - [F#](https://fsharp.org/)
 - C#
+
+## Available for hire
+
+You can check out my résumé/CV [here](https://github.com/bartoszluka/cv)
